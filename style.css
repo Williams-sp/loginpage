@@ -46,7 +46,7 @@ section#login{
 
 section#login > div#imagem{
 
-background: url(pexels-jan-van-der-wolf-11680885-19553106.jpg);
+background: url(../loginpage/pexels-jan-van-der-wolf-11680885-19553106.jpg);
 background-size: cover;
 height: 200px;
 background-position: center center;
